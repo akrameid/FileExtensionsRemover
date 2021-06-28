@@ -1,0 +1,7 @@
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\bin\Debug\FileExtensionsRemover.exe.config
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\bin\Debug\FileExtensionsRemover.exe
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\bin\Debug\FileExtensionsRemover.pdb
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\obj\Debug\FileExtensionsRemover.csprojAssemblyReference.cache
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\obj\Debug\FileExtensionsRemover.csproj.CoreCompileInputs.cache
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\obj\Debug\FileExtensionsRemover.exe
+C:\Users\aahmed3\source\repos\FileExtensionsRemover\FileExtensionsRemover\obj\Debug\FileExtensionsRemover.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"C:\proj1860_gss_p1_bmw_rvc_sourcecode" ".caf, .ncd, .xml, .jar, .dll, .xlsx, .xls,.html,.pdf"</StartArguments>
+  </PropertyGroup>
+</Project>
